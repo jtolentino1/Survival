@@ -3,7 +3,7 @@
 ##### By Joshua Tolentino and James Khalil
 
 ## Table of Contents
-**[Getting Started](#Getting Started)**<br>
+**[Getting Started](#Getting-Started)**<br>
 **[Controls](#Controls)**<br>
 **[Gallery](#Gallery)**<br>
 
