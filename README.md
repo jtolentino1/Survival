@@ -1,6 +1,6 @@
 # Survival
 #### A dodging-practice game for League of Legends players.
-##### Joshua Tolentino and James Khalil
+##### By Joshua Tolentino and James Khalil
 
 ## Getting Started
 Here are the steps to running and compiling our project.
@@ -36,7 +36,7 @@ if the user is running at above 60 hertz, the game is seen to be sped up.
 ### Step 3: Running the Game
 ##### To run the game, run the "GameApp.java" file within the "application" folder.
 
-### Controls
+## Controls
 ##### Click: Shoot in the direction of the mouse location.
 ##### F: Blink a certain distance to the location of mouse.
 ##### W: Move forwards.
