@@ -2,6 +2,11 @@
 #### A dodging-practice game for League of Legends players.
 ##### By Joshua Tolentino and James Khalil
 
+## Table of Contents
+**[Getting Started](#Getting Started)**<br>
+**[Controls](#Controls)**<br>
+**[Gallery](#Gallery)**<br>
+
 ## Getting Started
 Here are the steps to running and compiling our project.
 All the steps assume that you are working on the Eclipse IDE
