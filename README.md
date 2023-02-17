@@ -37,10 +37,10 @@ if the user is running at above 60 hertz, the game is seen to be sped up.
 ##### To run the game, run the "GameApp.java" file within the "application" folder.
 
 ## Controls
-##### Click: Shoot in the direction of the mouse location.
-##### F: Blink a certain distance to the location of mouse.
-##### W: Move forwards.
-##### S: Move backwards.
-##### A: Move left.
-##### D: Move right.
-##### ESC: Pause / Unpause
+##### * Click: Shoot in the direction of the mouse location.
+##### * F: Blink a certain distance to the location of mouse.
+##### * W: Move forwards.
+##### * S: Move backwards.
+##### * A: Move left.
+##### * D: Move right.
+##### * ESC: Pause / Unpause
