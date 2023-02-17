@@ -1,4 +1,4 @@
-# CPSC 233 Project - "Survival"
+# Survival
 ##### A dodging-practice game for League of Legends players.
 ### Joshua Tolentino and James Khalil
 
@@ -34,9 +34,7 @@ if the user is running at above 60 hertz, the game is seen to be sped up.
 ###### If the code is not compiling, please make sure that the required dependencies (JavaFX SDK and user library JavaFX) are in module path.
 ###### Additionally, check module-info.java to double check that you are not missing any dependencies.
 ### Step 3: Running the Game
-##### To run the game (GUI version), run the "GameApp.java" file within the "application" folder.
-##### To run the text-based version of the game, go to the "textApplication" folder and run the "Game.java" file.
-###### Note, the class diagram for the text-based version of the game can also be found in the "textApplication" folder.
+##### To run the game, run the "GameApp.java" file within the "application" folder.
 
 ### Controls
 ##### Click: Shoot in the direction of the mouse location.
