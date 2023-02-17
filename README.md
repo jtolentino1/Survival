@@ -1,6 +1,6 @@
 # Survival
-##### A dodging-practice game for League of Legends players.
-### Joshua Tolentino and James Khalil
+#### A dodging-practice game for League of Legends players.
+##### Joshua Tolentino and James Khalil
 
 ## Getting Started
 Here are the steps to running and compiling our project.
