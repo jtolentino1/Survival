@@ -1,0 +1,30 @@
+All Sources for All Non-Original Media Found in Assets Folder
+
+User.png, UserBounds.png, GameBackground.png, Enemy.png
+https://opengameart.org/content/animated-top-down-survivor-player
+
+FireBall.png
+http://pixelartmaker.com/art/0cfa6c7a0cfcd1c
+
+Flash.png
+https://notagamer.net/flash-became-a-spell-to-all-champions-flash-lol/
+
+FlashSFX.mp3
+https://www.youtube.com/watch?v=cW2v3CfvTPQ
+
+GameOver.mp3
+https://www.youtube.com/watch?v=X7UoBc10H_w&t=4s
+
+Gunshot.mp3
+https://www.youtube.com/watch?v=f53fti1kwgc
+
+Kill.mp3
+https://www.youtube.com/watch?v=34ewE9biJRE
+
+MenuSong.mp3
+https://www.youtube.com/watch?v=ZJqwI2nqncc&t=49s
+
+MenuVideo.mp4
+https://www.youtube.com/watch?v=OAr1w8ZnROk&t=3025s
+
+All other assets not listed in this list is original work by Joshua Tolentino and James Khalil.

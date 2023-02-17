@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.GameController">
+   <right>
+      <Pane fx:id="gamePane" onMouseClicked="#mouseClicked" onMouseMoved="#mouseMoved" prefHeight="720.0" prefWidth="1280.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fx:id="backgroundImage" fitHeight="720.0" fitWidth="1280.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="flashImage" fitHeight="50.0" fitWidth="50.0" layoutX="14.0" layoutY="651.0" pickOnBounds="true" preserveRatio="true" />
+            <Text fx:id="cooldownText" fill="WHITE" layoutX="26.0" layoutY="684.0" strokeType="OUTSIDE" strokeWidth="0.0" text="16" visible="false">
+               <font>
+                  <Font name="Arial" size="24.0" />
+               </font>
+            </Text>
+            <ImageView fx:id="character" fitHeight="100.0" fitWidth="100.0" layoutX="590.0" layoutY="320.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="projectile" fitHeight="12.0" fitWidth="12.0" layoutX="75.0" layoutY="48.0" pickOnBounds="true" preserveRatio="true" visible="false" />
+            <Text fx:id="scoreText" fill="WHITE" layoutX="14.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SCORE: 214783647">
+               <font>
+                  <Font name="Arial Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text fx:id="paused" fill="WHITE" layoutX="574.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PAUSED" visible="false">
+               <font>
+                  <Font name="Arial" size="32.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+   </right>
+</BorderPane>
