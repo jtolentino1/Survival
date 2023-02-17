@@ -44,3 +44,14 @@ if the user is running at above 60hz, the game is seen to be sped up.
 * A: Move left.
 * D: Move right.
 * ESC: Pause / Unpause
+
+## Gallery
+
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Survival/blob/main/READMEImages/Gameplay1.png">
+</p>
+
+<p align="center"> 
+<img src="https://github.com/jtolentino1/Survival/blob/main/READMEImages/Gameplay2.png">
+</p>
+
