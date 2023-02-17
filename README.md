@@ -8,18 +8,18 @@ All the steps assume that you are working on the Eclipse IDE
 and you are using Java 9.0.4 Development Kit.
 
 Additionally, this game assumes that you are running it within a device
-running at 60 hertz. There is currently a bug with JavaFX AnimationTimer where
-if the user is running at above 60 hertz, the game is seen to be sped up.
+running at 60hz. There is currently a bug with JavaFX AnimationTimer where
+if the user is running at above 60hz, the game is seen to be sped up.
 
 ### Step 1: Installing Dependencies
 ##### Install e(fx)clipse (version 3.7.0) on the Eclipse Marketplace.
   1. Help > Eclipse Marketplace > search e(fx)clipse and install.
 ##### Install JavaFX from [here](https://gluonhq.com/products/javafx/).
-  1. Extract all the .jar files within the download and put it in a folder, remember this directory.
+  1. Extract all the `.jar` files within the download and put it in a folder, remember this directory.
   2. On Eclipse, Window > Preferences > Java > Build Path > User Libraries
   3. Hit the new button, user library name should be JavaFX then click "Ok"
   4. Now, in User Libraries click on JavaFX and click on "Add External Jars"
-  5. From step 1, go to the directory with all .jar files and select all of them.
+  5. From step 1, go to the directory with all `.jar` files and select all of them.
   6. Hit "Apply and Close"
 
 ### Step 2: Pulling and Initializing the Project
