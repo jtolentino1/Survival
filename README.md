@@ -34,7 +34,7 @@ if the user is running at above 60hz, the game is seen to be sped up.
 ###### If the code is not compiling, please make sure that the required dependencies (JavaFX SDK and user library JavaFX) are in module path.
 ###### Additionally, check module-info.java to double check that you are not missing any dependencies.
 ### Step 3: Running the Game
-##### To run the game, run the "GameApp.java" file within the "application" folder.
+##### To run the game, run `GameApp.java` within the `application` directory.
 
 ## Controls
 * Click: Shoot in the direction of the mouse location.
